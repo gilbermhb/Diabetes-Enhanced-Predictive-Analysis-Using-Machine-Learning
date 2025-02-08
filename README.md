@@ -103,6 +103,11 @@ Required Libraries:
 
 - Use ROC curves and feature importance analysis to interpret results.
 
+## Authors
+
+- [@Andres De Los Santos]()
+- [@Gilber Hernandez](https://www.github.com/gilbermhb)
+
 ## Acknowledgments
 
 This project is part of the Data Science Master's Capstone at Fordham University.
