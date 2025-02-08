@@ -29,7 +29,7 @@ print(
       "Model Implementation - Predictive Analytics for Diabetes Risk Assessment Using Machine Learning on BRFSS Health Indicator"
       )
 
-data = pd.read_csv('C:/Users/Gilbert Hernandez/OneDrive - Fordham University/Capstone/transformed_diabetes_data_v2.csv')
+data = pd.read_csv('./transformed_diabetes_data_v2.csv')
 
 df = data[['HighBP','HighChol','CholCheck','Smoker','Stroke','HeartDiseaseorAttack','PhysActivity','HvyAlcoholConsump','NoDocbcCost','GenHlth','DiffWalk','Sex','Age_Mapped','BMI_Status_Number','Diabetes_012']]
 
