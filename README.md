@@ -105,7 +105,7 @@ Required Libraries:
 
 ## Authors
 
-- [@Andres De Los Santos](https://www/github.com/andresdls24)
+- [@Andres De Los Santos](https://github.com/andresdls24)
 - [@Gilber Hernandez](https://www.github.com/gilbermhb)
 
 ## Acknowledgments
